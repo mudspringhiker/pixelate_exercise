@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  font-family: "Press Start 2P", cursive;
+}
+
+html {
+  background-color: #222;
+  color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* your CSS below! */
+table {
+  margin-top: 15px;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  background: gray;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.fuschia {
+  background-color: fuchsia;
+}
+
+.aqua {
+  background-color: aqua;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.burlywood {
+  background-color: burlywood;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.yellow {
+  background-color: yellow;
+}
